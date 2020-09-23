@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=..\..\SuperTree\SPT_SuperTree.vbp
+StartupProject=..\..\SuperTree\Test\Test.vbp
